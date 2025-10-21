@@ -28,9 +28,9 @@ Outside of my day job, I like building tools, hosting events, and finding ways t
 ### Tech Stack
 `Terraform` · `Ansible` · `Docker` · `Kubernetes` · `Puppet`  
 `AWS` · `Azure` · `Google Cloud`  
-`Go` · `Python` · `Bash` · `TypeScript`  
+`Go` · `Python` · `Bash` · `Ruby` · `TypeScript`  
 `Linux` · `RHEL` · `Ubuntu` · `VMware`  
-`Nginx` · `deSEC` · `Pi-hole` · `Portainer`
+`Nginx` · `deSEC` · `Portainer`
 
 ---
 
