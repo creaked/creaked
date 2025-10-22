@@ -14,7 +14,7 @@ Outside of my day job, I like building tools, hosting events, and finding ways t
 ### What I Work On
 - **Infrastructure and Automation** - Terraform, Ansible, Puppet, Docker, Kubernetes, and CI/CD
 - **Cloud Platforms** - AWS, Azure, and GCP for both enterprise and hybrid environments  
-- **Systems Engineering** - RHEL Satellite, NetApp ONTAP, VMware 
+- **Systems Engineering** - RHEL, NetApp, VMware 
 - **Software Projects** - Creator of [`waitup`](https://github.com/creaked/waitup), a CLI that checks when systems come back online after a reboot  
 - **Creative Projects** - Founder of [LYOKO](https://lyoko.com), an events and VR brand that blends real and digital experiences  
 
